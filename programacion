@@ -41,3 +41,43 @@ harina = 0.5 -> Float (numero decimal)
 caracter = "a" -> Char (un solo caracter)
 Casado = True -> Boolean (solo True o False)
 
+# funciones:
+· Para cambiar la indicación
+function EntrarALaCasa():
+1. enttrar a la casa
+2. Patear muy fuerte
+3. Caminar hacia adelante
+Paradigma (preferencia de algoritmo)
+
+class Personas {
+edad: (Integer)
+nombre: (string)
+colorPelo: (String)
+ DecirNombre():
+  habla {tu nombre}
+
+}
+
+PersonaCerdo = new Persoma(
+edad: 36
+nombre: "cerdo"
+colorPelo: "castaño"
+)
+
+PersonaFelipe = new Personas (
+edad: 15
+nombre: "Felipe"
+colorPelo: "rojo pasion"
+)
+
+function entrarALaCasa(persona): (if)
+si persona.edad > 17:
+ correr hacia la ventana.
+ saltar.
+ hacerse bolita
+sino: (else)
+ vete de aqui!
+
+function entrarALaCasa(persona): (Bug)
+ acercarse a la puerta
+ caminar hacia delante
